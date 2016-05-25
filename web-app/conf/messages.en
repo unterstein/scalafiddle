@@ -1,1 +1,14 @@
 title=Create a new ScalaFiddle - scalafiddle.net
+
+# compilation stuff
+out.title=Standard out
+err.title=Standard error
+compilation.title=Compilation duration
+execution.title=Execution duration
+return.title=Return value
+
+# error
+error.tooLong=Exception: too long execution time!
+error.accessViolation=Exception: ah, ah! You are not allowed to use {0}
+
+exception.exit=Ahah! You can try this at your favorite portal server ..

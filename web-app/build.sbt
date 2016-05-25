@@ -12,6 +12,8 @@ libraryDependencies ++= Seq(
   ws,
   "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1" % Test,
   "com.github.unterstein" %% "play-rest-plugin" % "0.1.0",
+  "com.twitter" % "util-eval_2.11" % "6.34.0",
+  "mysql" % "mysql-connector-java" % "6.0.2",
   "org.webjars" % "webjars-play_2.11" % "2.5.0-2",
   "org.webjars" % "bootstrap" % "3.3.6",
   "org.webjars" % "bootswatch-spacelab" % "3.3.5+4",
